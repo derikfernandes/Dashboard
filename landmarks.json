@@ -1,0 +1,907 @@
+{
+  "generatedAt": "2026-09-18T16:53:43.587Z",
+  "source": "OpenStreetMap Overpass API",
+  "radiusM": 350,
+  "landmarks": [
+    {
+      "kind": "semaforo",
+      "label": "Semáforo",
+      "lat": -23.207404,
+      "lon": -45.9077372,
+      "distM": 0,
+      "nearTrafficIds": [
+        4
+      ],
+      "near": "4",
+      "osmUrl": "https://www.openstreetmap.org/node/1418266167",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.207404%2C-45.9077372",
+      "id": 1
+    },
+    {
+      "kind": "semaforo",
+      "label": "Semáforo",
+      "lat": -23.2352307,
+      "lon": -45.8846661,
+      "distM": 0,
+      "nearTrafficIds": [
+        40,
+        49
+      ],
+      "near": "40, 49",
+      "osmUrl": "https://www.openstreetmap.org/node/3404109747",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.2352307%2C-45.8846661",
+      "id": 2
+    },
+    {
+      "kind": "semaforo",
+      "label": "Semáforo",
+      "lat": -23.16474,
+      "lon": -45.8941881,
+      "distM": 0,
+      "nearTrafficIds": [
+        14
+      ],
+      "near": "14",
+      "osmUrl": "https://www.openstreetmap.org/node/8164113601",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.16474%2C-45.8941881",
+      "id": 3
+    },
+    {
+      "kind": "semaforo",
+      "label": "Semáforo",
+      "lat": -23.2005985,
+      "lon": -45.8633634,
+      "distM": 6,
+      "nearTrafficIds": [
+        16,
+        21
+      ],
+      "near": "16, 21",
+      "osmUrl": "https://www.openstreetmap.org/node/1453969527",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.2005985%2C-45.8633634",
+      "id": 4
+    },
+    {
+      "kind": "semaforo",
+      "label": "Semáforo",
+      "lat": -23.1751997,
+      "lon": -45.8214533,
+      "distM": 14,
+      "nearTrafficIds": [
+        25,
+        26
+      ],
+      "near": "25, 26",
+      "osmUrl": "https://www.openstreetmap.org/node/6913835777",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.1751997%2C-45.8214533",
+      "id": 5
+    },
+    {
+      "kind": "semaforo",
+      "label": "Semáforo",
+      "lat": -23.1749272,
+      "lon": -45.821519,
+      "distM": 28,
+      "nearTrafficIds": [
+        25,
+        26
+      ],
+      "near": "25, 26",
+      "osmUrl": "https://www.openstreetmap.org/node/6913835776",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.1749272%2C-45.821519",
+      "id": 6
+    },
+    {
+      "kind": "ponte",
+      "label": "Ponte · Rua Ana Maria Nardo Silva",
+      "lat": -23.198942,
+      "lon": -45.9127403,
+      "distM": 39,
+      "nearTrafficIds": [
+        11
+      ],
+      "near": "11",
+      "osmUrl": "https://www.openstreetmap.org/way/860559345",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.198942%2C-45.9127403",
+      "id": 7
+    },
+    {
+      "kind": "ponte",
+      "label": "Viaduto Padre Rodolfo Komorek",
+      "lat": -23.2207249,
+      "lon": -45.9009236,
+      "distM": 53,
+      "nearTrafficIds": [
+        2
+      ],
+      "near": "2",
+      "osmUrl": "https://www.openstreetmap.org/way/884610568",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.2207249%2C-45.9009236",
+      "id": 8
+    },
+    {
+      "kind": "ponte",
+      "label": "Ponte / viaduto",
+      "lat": -23.1687332,
+      "lon": -45.809031,
+      "distM": 57,
+      "nearTrafficIds": [
+        33
+      ],
+      "near": "33",
+      "osmUrl": "https://www.openstreetmap.org/way/908238257",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.1687332%2C-45.809031",
+      "id": 9
+    },
+    {
+      "kind": "ponte",
+      "label": "Ponte · Rua Rio Tibagi",
+      "lat": -23.1687891,
+      "lon": -45.8090059,
+      "distM": 59,
+      "nearTrafficIds": [
+        33
+      ],
+      "near": "33",
+      "osmUrl": "https://www.openstreetmap.org/way/314566855",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.1687891%2C-45.8090059",
+      "id": 10
+    },
+    {
+      "kind": "ponte",
+      "label": "Viaduto Raquel Marcondes",
+      "lat": -23.1873869,
+      "lon": -45.8793778,
+      "distM": 60,
+      "nearTrafficIds": [
+        1
+      ],
+      "near": "1",
+      "osmUrl": "https://www.openstreetmap.org/way/130571429",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.1873869%2C-45.8793778",
+      "id": 11
+    },
+    {
+      "kind": "semaforo",
+      "label": "Semáforo",
+      "lat": -23.198725,
+      "lon": -45.9125685,
+      "distM": 68,
+      "nearTrafficIds": [
+        11
+      ],
+      "near": "11",
+      "osmUrl": "https://www.openstreetmap.org/node/1418097505",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.198725%2C-45.9125685",
+      "id": 12
+    },
+    {
+      "kind": "semaforo",
+      "label": "Semáforo",
+      "lat": -23.2011355,
+      "lon": -45.8628001,
+      "distM": 77,
+      "nearTrafficIds": [
+        16,
+        21
+      ],
+      "near": "16, 21",
+      "osmUrl": "https://www.openstreetmap.org/node/3160449701",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.2011355%2C-45.8628001",
+      "id": 13
+    },
+    {
+      "kind": "ponte",
+      "label": "Ponte / viaduto",
+      "lat": -23.2649118,
+      "lon": -45.8904639,
+      "distM": 78,
+      "nearTrafficIds": [
+        63,
+        66
+      ],
+      "near": "63, 66",
+      "osmUrl": "https://www.openstreetmap.org/way/1442367726",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.2649118%2C-45.8904639",
+      "id": 14
+    },
+    {
+      "kind": "semaforo",
+      "label": "Semáforo",
+      "lat": -23.2012844,
+      "lon": -45.8629964,
+      "distM": 79,
+      "nearTrafficIds": [
+        16,
+        21
+      ],
+      "near": "16, 21",
+      "osmUrl": "https://www.openstreetmap.org/node/3160449691",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.2012844%2C-45.8629964",
+      "id": 15
+    },
+    {
+      "kind": "semaforo",
+      "label": "Semáforo",
+      "lat": -23.2067045,
+      "lon": -45.9074777,
+      "distM": 82,
+      "nearTrafficIds": [
+        4
+      ],
+      "near": "4",
+      "osmUrl": "https://www.openstreetmap.org/node/1418097530",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.2067045%2C-45.9074777",
+      "id": 16
+    },
+    {
+      "kind": "semaforo",
+      "label": "Semáforo",
+      "lat": -23.216013,
+      "lon": -45.8953814,
+      "distM": 85,
+      "nearTrafficIds": [
+        6,
+        61
+      ],
+      "near": "6, 61",
+      "osmUrl": "https://www.openstreetmap.org/node/3456021398",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.216013%2C-45.8953814",
+      "id": 17
+    },
+    {
+      "kind": "ponte",
+      "label": "Ponte · Avenida Doutor Eduardo Cury",
+      "lat": -23.1984321,
+      "lon": -45.9133296,
+      "distM": 95,
+      "nearTrafficIds": [
+        11
+      ],
+      "near": "11",
+      "osmUrl": "https://www.openstreetmap.org/way/325445748",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.1984321%2C-45.9133296",
+      "id": 18
+    },
+    {
+      "kind": "ponte",
+      "label": "Ponte / viaduto",
+      "lat": -23.1983782,
+      "lon": -45.9133854,
+      "distM": 103,
+      "nearTrafficIds": [
+        11
+      ],
+      "near": "11",
+      "osmUrl": "https://www.openstreetmap.org/way/957684100",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.1983782%2C-45.9133854",
+      "id": 19
+    },
+    {
+      "kind": "ponte",
+      "label": "Ponte Avenida Evangélicos",
+      "lat": -23.2653451,
+      "lon": -45.8905297,
+      "distM": 112,
+      "nearTrafficIds": [
+        63,
+        66
+      ],
+      "near": "63, 66",
+      "osmUrl": "https://www.openstreetmap.org/way/831792250",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.2653451%2C-45.8905297",
+      "id": 20
+    },
+    {
+      "kind": "ponte",
+      "label": "Ponte · Rua Bahia",
+      "lat": -23.1935844,
+      "lon": -45.868183,
+      "distM": 117,
+      "nearTrafficIds": [
+        12
+      ],
+      "near": "12",
+      "osmUrl": "https://www.openstreetmap.org/way/130573189",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.1935844%2C-45.868183",
+      "id": 21
+    },
+    {
+      "kind": "ponte",
+      "label": "Viaduto Bandeirante",
+      "lat": -23.1937352,
+      "lon": -45.8685216,
+      "distM": 122,
+      "nearTrafficIds": [
+        12
+      ],
+      "near": "12",
+      "osmUrl": "https://www.openstreetmap.org/way/130573186",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.1937352%2C-45.8685216",
+      "id": 22
+    },
+    {
+      "kind": "ponte",
+      "label": "Ponte / viaduto",
+      "lat": -23.1937603,
+      "lon": -45.868527,
+      "distM": 125,
+      "nearTrafficIds": [
+        12
+      ],
+      "near": "12",
+      "osmUrl": "https://www.openstreetmap.org/way/1550316989",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.1937603%2C-45.868527",
+      "id": 23
+    },
+    {
+      "kind": "semaforo",
+      "label": "Semáforo",
+      "lat": -23.2251129,
+      "lon": -45.9119206,
+      "distM": 134,
+      "nearTrafficIds": [
+        35,
+        51
+      ],
+      "near": "35, 51",
+      "osmUrl": "https://www.openstreetmap.org/node/945911418",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.2251129%2C-45.9119206",
+      "id": 24
+    },
+    {
+      "kind": "semaforo",
+      "label": "Semáforo",
+      "lat": -23.2063487,
+      "lon": -45.9069077,
+      "distM": 145,
+      "nearTrafficIds": [
+        4
+      ],
+      "near": "4",
+      "osmUrl": "https://www.openstreetmap.org/node/1418085377",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.2063487%2C-45.9069077",
+      "id": 25
+    },
+    {
+      "kind": "semaforo",
+      "label": "Semáforo",
+      "lat": -23.2170415,
+      "lon": -45.8945734,
+      "distM": 152,
+      "nearTrafficIds": [
+        6,
+        61
+      ],
+      "near": "6, 61",
+      "osmUrl": "https://www.openstreetmap.org/node/8477976660",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.2170415%2C-45.8945734",
+      "id": 26
+    },
+    {
+      "kind": "semaforo",
+      "label": "Semáforo",
+      "lat": -23.1915753,
+      "lon": -45.8698476,
+      "distM": 167,
+      "nearTrafficIds": [
+        12
+      ],
+      "near": "12",
+      "osmUrl": "https://www.openstreetmap.org/node/1437658990",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.1915753%2C-45.8698476",
+      "id": 27
+    },
+    {
+      "kind": "semaforo",
+      "label": "Semáforo",
+      "lat": -23.197942,
+      "lon": -45.9118501,
+      "distM": 182,
+      "nearTrafficIds": [
+        11
+      ],
+      "near": "11",
+      "osmUrl": "https://www.openstreetmap.org/node/3191757813",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.197942%2C-45.9118501",
+      "id": 28
+    },
+    {
+      "kind": "ponte",
+      "label": "Ponte / viaduto (viaduct)",
+      "lat": -23.2151532,
+      "lon": -45.8950129,
+      "distM": 185,
+      "nearTrafficIds": [
+        6,
+        61
+      ],
+      "near": "6, 61",
+      "osmUrl": "https://www.openstreetmap.org/way/313444967",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.2151532%2C-45.8950129",
+      "id": 29
+    },
+    {
+      "kind": "semaforo",
+      "label": "Semáforo",
+      "lat": -23.205935,
+      "lon": -45.9068393,
+      "distM": 187,
+      "nearTrafficIds": [
+        4
+      ],
+      "near": "4",
+      "osmUrl": "https://www.openstreetmap.org/node/7147482799",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.205935%2C-45.9068393",
+      "id": 30
+    },
+    {
+      "kind": "semaforo",
+      "label": "Semáforo",
+      "lat": -23.1886764,
+      "lon": -45.8870624,
+      "distM": 188,
+      "nearTrafficIds": [
+        10
+      ],
+      "near": "10",
+      "osmUrl": "https://www.openstreetmap.org/node/1440364593",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.1886764%2C-45.8870624",
+      "id": 31
+    },
+    {
+      "kind": "semaforo",
+      "label": "Semáforo",
+      "lat": -23.1918591,
+      "lon": -45.8704132,
+      "distM": 196,
+      "nearTrafficIds": [
+        12
+      ],
+      "near": "12",
+      "osmUrl": "https://www.openstreetmap.org/node/2061117167",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.1918591%2C-45.8704132",
+      "id": 32
+    },
+    {
+      "kind": "semaforo",
+      "label": "Semáforo",
+      "lat": -23.2175169,
+      "lon": -45.8943127,
+      "distM": 200,
+      "nearTrafficIds": [
+        6,
+        61
+      ],
+      "near": "6, 61",
+      "osmUrl": "https://www.openstreetmap.org/node/8477976658",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.2175169%2C-45.8943127",
+      "id": 33
+    },
+    {
+      "kind": "semaforo",
+      "label": "Semáforo",
+      "lat": -23.197819,
+      "lon": -45.8946319,
+      "distM": 203,
+      "nearTrafficIds": [
+        20
+      ],
+      "near": "20",
+      "osmUrl": "https://www.openstreetmap.org/node/1424448538",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.197819%2C-45.8946319",
+      "id": 34
+    },
+    {
+      "kind": "semaforo",
+      "label": "Semáforo",
+      "lat": -23.2059732,
+      "lon": -45.9062215,
+      "distM": 222,
+      "nearTrafficIds": [
+        4
+      ],
+      "near": "4",
+      "osmUrl": "https://www.openstreetmap.org/node/3468701546",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.2059732%2C-45.9062215",
+      "id": 35
+    },
+    {
+      "kind": "semaforo",
+      "label": "Semáforo",
+      "lat": -23.1630562,
+      "lon": -45.8928869,
+      "distM": 230,
+      "nearTrafficIds": [
+        14
+      ],
+      "near": "14",
+      "osmUrl": "https://www.openstreetmap.org/node/11891780801",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.1630562%2C-45.8928869",
+      "id": 36
+    },
+    {
+      "kind": "ponte",
+      "label": "Arco da Inovação",
+      "lat": -23.2061493,
+      "lon": -45.9058881,
+      "distM": 235,
+      "nearTrafficIds": [
+        4
+      ],
+      "near": "4",
+      "osmUrl": "https://www.openstreetmap.org/way/798915529",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.2061493%2C-45.9058881",
+      "id": 37
+    },
+    {
+      "kind": "semaforo",
+      "label": "Semáforo",
+      "lat": -23.1895682,
+      "lon": -45.8869572,
+      "distM": 237,
+      "nearTrafficIds": [
+        10
+      ],
+      "near": "10",
+      "osmUrl": "https://www.openstreetmap.org/node/2061127772",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.1895682%2C-45.8869572",
+      "id": 38
+    },
+    {
+      "kind": "semaforo",
+      "label": "Semáforo",
+      "lat": -23.2242316,
+      "lon": -45.9115886,
+      "distM": 237,
+      "nearTrafficIds": [
+        35,
+        51
+      ],
+      "near": "35, 51",
+      "osmUrl": "https://www.openstreetmap.org/node/5335782559",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.2242316%2C-45.9115886",
+      "id": 39
+    },
+    {
+      "kind": "semaforo",
+      "label": "Semáforo",
+      "lat": -23.1862209,
+      "lon": -45.8883207,
+      "distM": 245,
+      "nearTrafficIds": [
+        10
+      ],
+      "near": "10",
+      "osmUrl": "https://www.openstreetmap.org/node/1439609656",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.1862209%2C-45.8883207",
+      "id": 40
+    },
+    {
+      "kind": "semaforo",
+      "label": "Semáforo",
+      "lat": -23.1626544,
+      "lon": -45.8952408,
+      "distM": 256,
+      "nearTrafficIds": [
+        14
+      ],
+      "near": "14",
+      "osmUrl": "https://www.openstreetmap.org/node/11916363569",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.1626544%2C-45.8952408",
+      "id": 41
+    },
+    {
+      "kind": "semaforo",
+      "label": "Semáforo",
+      "lat": -23.2052861,
+      "lon": -45.9065936,
+      "distM": 263,
+      "nearTrafficIds": [
+        4
+      ],
+      "near": "4",
+      "osmUrl": "https://www.openstreetmap.org/node/1418085359",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.2052861%2C-45.9065936",
+      "id": 42
+    },
+    {
+      "kind": "ponte",
+      "label": "Ponte Leonardo Kunimitsu Suzuki",
+      "lat": -23.2057001,
+      "lon": -45.9059085,
+      "distM": 266,
+      "nearTrafficIds": [
+        4
+      ],
+      "near": "4",
+      "osmUrl": "https://www.openstreetmap.org/way/292528703",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.2057001%2C-45.9059085",
+      "id": 43
+    },
+    {
+      "kind": "semaforo",
+      "label": "Semáforo",
+      "lat": -23.2354413,
+      "lon": -45.8806372,
+      "distM": 267,
+      "nearTrafficIds": [
+        23
+      ],
+      "near": "23",
+      "osmUrl": "https://www.openstreetmap.org/node/3224267183",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.2354413%2C-45.8806372",
+      "id": 44
+    },
+    {
+      "kind": "semaforo",
+      "label": "Semáforo",
+      "lat": -23.1670865,
+      "lon": -45.8931264,
+      "distM": 283,
+      "nearTrafficIds": [
+        14
+      ],
+      "near": "14",
+      "osmUrl": "https://www.openstreetmap.org/node/11916363578",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.1670865%2C-45.8931264",
+      "id": 45
+    },
+    {
+      "kind": "semaforo",
+      "label": "Semáforo",
+      "lat": -23.1972382,
+      "lon": -45.89635,
+      "distM": 290,
+      "nearTrafficIds": [
+        20
+      ],
+      "near": "20",
+      "osmUrl": "https://www.openstreetmap.org/node/3316572497",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.1972382%2C-45.89635",
+      "id": 46
+    },
+    {
+      "kind": "ponte",
+      "label": "Ponte / viaduto (viaduct)",
+      "lat": -23.2117929,
+      "lon": -45.9000975,
+      "distM": 292,
+      "nearTrafficIds": [
+        3,
+        5
+      ],
+      "near": "3, 5",
+      "osmUrl": "https://www.openstreetmap.org/way/910567306",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.2117929%2C-45.9000975",
+      "id": 47
+    },
+    {
+      "kind": "semaforo",
+      "label": "Semáforo",
+      "lat": -23.186097,
+      "lon": -45.887398,
+      "distM": 293,
+      "nearTrafficIds": [
+        10
+      ],
+      "near": "10",
+      "osmUrl": "https://www.openstreetmap.org/node/1439609655",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.186097%2C-45.887398",
+      "id": 48
+    },
+    {
+      "kind": "semaforo",
+      "label": "Semáforo",
+      "lat": -23.1885903,
+      "lon": -45.8860116,
+      "distM": 293,
+      "nearTrafficIds": [
+        10
+      ],
+      "near": "10",
+      "osmUrl": "https://www.openstreetmap.org/node/1440364601",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.1885903%2C-45.8860116",
+      "id": 49
+    },
+    {
+      "kind": "semaforo",
+      "label": "Semáforo",
+      "lat": -23.2007164,
+      "lon": -45.8925031,
+      "distM": 295,
+      "nearTrafficIds": [
+        20
+      ],
+      "near": "20",
+      "osmUrl": "https://www.openstreetmap.org/node/4632368576",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.2007164%2C-45.8925031",
+      "id": 50
+    },
+    {
+      "kind": "ponte",
+      "label": "Arco da Inovação",
+      "lat": -23.2056161,
+      "lon": -45.9055615,
+      "distM": 298,
+      "nearTrafficIds": [
+        4
+      ],
+      "near": "4",
+      "osmUrl": "https://www.openstreetmap.org/way/798915528",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.2056161%2C-45.9055615",
+      "id": 51
+    },
+    {
+      "kind": "semaforo",
+      "label": "Semáforo",
+      "lat": -23.1871975,
+      "lon": -45.8862457,
+      "distM": 298,
+      "nearTrafficIds": [
+        10
+      ],
+      "near": "10",
+      "osmUrl": "https://www.openstreetmap.org/node/1439609651",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.1871975%2C-45.8862457",
+      "id": 52
+    },
+    {
+      "kind": "ponte",
+      "label": "Ponte Pastor Paulo Leivas Macalão",
+      "lat": -23.2049851,
+      "lon": -45.9063884,
+      "distM": 302,
+      "nearTrafficIds": [
+        4
+      ],
+      "near": "4",
+      "osmUrl": "https://www.openstreetmap.org/way/325811426",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.2049851%2C-45.9063884",
+      "id": 53
+    },
+    {
+      "kind": "semaforo",
+      "label": "Semáforo",
+      "lat": -23.2054654,
+      "lon": -45.9056515,
+      "distM": 303,
+      "nearTrafficIds": [
+        4
+      ],
+      "near": "4",
+      "osmUrl": "https://www.openstreetmap.org/node/6648395484",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.2054654%2C-45.9056515",
+      "id": 54
+    },
+    {
+      "kind": "semaforo",
+      "label": "Semáforo",
+      "lat": -23.1669663,
+      "lon": -45.8924517,
+      "distM": 305,
+      "nearTrafficIds": [
+        14
+      ],
+      "near": "14",
+      "osmUrl": "https://www.openstreetmap.org/node/11891789356",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.1669663%2C-45.8924517",
+      "id": 55
+    },
+    {
+      "kind": "semaforo",
+      "label": "Semáforo",
+      "lat": -23.2235951,
+      "lon": -45.9114898,
+      "distM": 308,
+      "nearTrafficIds": [
+        35,
+        51
+      ],
+      "near": "35, 51",
+      "osmUrl": "https://www.openstreetmap.org/node/6504212845",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.2235951%2C-45.9114898",
+      "id": 56
+    },
+    {
+      "kind": "semaforo",
+      "label": "Semáforo",
+      "lat": -23.2015123,
+      "lon": -45.8928196,
+      "distM": 318,
+      "nearTrafficIds": [
+        20
+      ],
+      "near": "20",
+      "osmUrl": "https://www.openstreetmap.org/node/1424219485",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.2015123%2C-45.8928196",
+      "id": 57
+    },
+    {
+      "kind": "semaforo",
+      "label": "Semáforo",
+      "lat": -23.1968045,
+      "lon": -45.8943248,
+      "distM": 320,
+      "nearTrafficIds": [
+        20
+      ],
+      "near": "20",
+      "osmUrl": "https://www.openstreetmap.org/node/7511812944",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.1968045%2C-45.8943248",
+      "id": 58
+    },
+    {
+      "kind": "semaforo",
+      "label": "Semáforo",
+      "lat": -23.2049358,
+      "lon": -45.9094696,
+      "distM": 327,
+      "nearTrafficIds": [
+        4
+      ],
+      "near": "4",
+      "osmUrl": "https://www.openstreetmap.org/node/1418097524",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.2049358%2C-45.9094696",
+      "id": 59
+    },
+    {
+      "kind": "semaforo",
+      "label": "Semáforo",
+      "lat": -23.2047504,
+      "lon": -45.906117,
+      "distM": 338,
+      "nearTrafficIds": [
+        4
+      ],
+      "near": "4",
+      "osmUrl": "https://www.openstreetmap.org/node/1418085431",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.2047504%2C-45.906117",
+      "id": 60
+    },
+    {
+      "kind": "semaforo",
+      "label": "Semáforo",
+      "lat": -23.2249602,
+      "lon": -45.909171,
+      "distM": 339,
+      "nearTrafficIds": [
+        35,
+        51
+      ],
+      "near": "35, 51",
+      "osmUrl": "https://www.openstreetmap.org/node/2589427720",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.2249602%2C-45.909171",
+      "id": 61
+    },
+    {
+      "kind": "semaforo",
+      "label": "Semáforo",
+      "lat": -23.1743724,
+      "lon": -45.8181247,
+      "distM": 339,
+      "nearTrafficIds": [
+        25,
+        26
+      ],
+      "near": "25, 26",
+      "osmUrl": "https://www.openstreetmap.org/node/5172086297",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.1743724%2C-45.8181247",
+      "id": 62
+    },
+    {
+      "kind": "semaforo",
+      "label": "Semáforo",
+      "lat": -23.1970304,
+      "lon": -45.9106067,
+      "distM": 343,
+      "nearTrafficIds": [
+        11
+      ],
+      "near": "11",
+      "osmUrl": "https://www.openstreetmap.org/node/3957042497",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.1970304%2C-45.9106067",
+      "id": 63
+    }
+  ]
+}
