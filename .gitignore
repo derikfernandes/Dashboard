@@ -1,0 +1,9 @@
+# Config local com chave de API
+maps-config.js
+
+# Sistema / editor
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
